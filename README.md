@@ -8,13 +8,13 @@
 <h1 align="center">Hi 👋, I'm Xuân Trường</h1>
 <h3 align="center">A passionate frontend developer from Vietnamese</h3>
 
-- 🔭 I’m currently working on **UTE**
+- 🔭 I’m currently working on **Company**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently framework **React, Laravel, Amazone**
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 📫 How to reach me **xt0307vn@gmail.com**
+- 📫 How to reach me **nxtrwg@gmail.com**
 
 - ⚡ Fun fact **I am fun**
 
