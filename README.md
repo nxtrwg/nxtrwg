@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Company**
 
-- 🌱 I’m currently framework **React, Laravel, Amazone**
+- 🌱 I’m currently framework **React, Laravel**
 
 - 👯 I’m looking to collaborate on **Github**
 
